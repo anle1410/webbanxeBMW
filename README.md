@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BMW Showroom Vietnam
 
 <p align="center">
@@ -311,3 +312,7 @@ BMW Showroom Vietnam là một dự án website showroom xe BMW chuyên nghiệp
   <strong>© 2026 BMW Showroom Vietnam</strong><br>
   <strong>Tác giả: Lê Phú An</strong>
 </p>
+=======
+# webbanxe
+bán xe của hảng BMW
+>>>>>>> b50b74dc666995acb387e1b27b78be20b73fe17d
